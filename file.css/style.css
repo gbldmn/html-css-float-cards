@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+}
+p {
+    text-align: center;
+    padding: 10px;
+}
+/* dati iniziali  */
